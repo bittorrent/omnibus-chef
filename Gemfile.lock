@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/opscode/omnibus-ruby.git
-  revision: 8f65fa99111779008951ad95e3fe2104ed4af2fc
-  branch: pkg-name-version-arch-solaris
+  revision: bb623248d9b7a7cc60cc45b4e314f78d04888b2e
+  branch: chef-11.6.rc-ruby-448
   specs:
     omnibus (1.1.0)
       fpm (~> 0.4.33)
