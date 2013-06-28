@@ -16,7 +16,7 @@
 #
 
 name "ruby-windows"
-version "1.9.3-p429"
+version "1.9.3-p448"
 
 relative_path "ruby-#{version}-i386-mingw32"
 
